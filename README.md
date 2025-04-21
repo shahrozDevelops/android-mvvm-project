@@ -1,4 +1,4 @@
-# Android MVVM Starter  
+# Android MVVM Project  
 My project to dive deep into :  
 -
 - **MVVM Architecture**  
